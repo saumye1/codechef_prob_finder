@@ -1,0 +1,26 @@
+{
+  "name": "codechef_prob_finder",
+  "version": "0.0.0",
+  "description": "Utility to find difference in solved problems of your friends on codechef",
+  "main": "app.js",
+  "dependencies": {
+    "bluebird": "3.5.0",
+    "html2json": "1.0.2",
+    "request": "2.81.0",
+    "request-promise": "4.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saumye1/codechef_prob_finder.git"
+  },
+  "author": "Saumye Malhotra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saumye1/codechef_prob_finder/issues"
+  },
+  "homepage": "https://github.com/saumye1/codechef_prob_finder#readme"
+}
